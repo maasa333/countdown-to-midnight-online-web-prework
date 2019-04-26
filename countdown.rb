@@ -10,5 +10,5 @@ def countdown(x)
 end
 
 def countdown_with_sleep(x)
-  x += 1
+  x = 12
 end
