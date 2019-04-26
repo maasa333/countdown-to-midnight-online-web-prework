@@ -9,7 +9,4 @@ def countdown(x)
   return "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep(x)
-  x = 5
-  break if x == 0
-end
+def countdown_with_sleep(5)
