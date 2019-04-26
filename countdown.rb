@@ -14,5 +14,4 @@ def countdown_with_sleep(x)
     sleep(1)
     break if x == 0
   end
-  end
 end
