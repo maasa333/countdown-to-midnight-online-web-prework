@@ -8,6 +8,7 @@ def countdown
     if x == 1
       puts "#{x} SECOND!"
     else
-
+      puts "HAPPY NEW YEAR!"
+    end
 end
 end
