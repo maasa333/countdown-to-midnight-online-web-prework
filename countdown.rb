@@ -10,5 +10,6 @@ def countdown
       puts "#{x} SECOND!"
   end
       puts "HAPPY NEW YEAR!"
+    end
   end
 end
