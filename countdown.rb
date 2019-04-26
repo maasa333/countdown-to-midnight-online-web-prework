@@ -8,6 +8,6 @@ def countdown
     if x == 1
       puts "#{x} SECOND!"
     else
-      
+
 end
 end
