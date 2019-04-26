@@ -7,6 +7,8 @@ def countdown
   while x == 1
       puts "#{x} SECOND!"
       x -= 1
+    end
   end
+  
       puts "HAPPY NEW YEAR!"
 end
