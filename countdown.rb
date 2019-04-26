@@ -6,7 +6,7 @@ def countdown
     puts "#{x} SECONDS!"
     x -= 1
   end
-  while x == 1
+  if x == 1
       puts "#{x} SECOND!"
       x -= 1
   end
