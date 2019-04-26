@@ -11,3 +11,5 @@ end
 
 def countdown_with_sleep(x)
   x = 5
+  break if x == 0
+end
